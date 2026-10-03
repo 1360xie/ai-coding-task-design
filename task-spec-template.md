@@ -50,7 +50,7 @@ Weighted dimensions used to grade the result. Weights should sum to 100.
 | Correctness | 40 | All acceptance criteria pass |
 | Code quality | 25 | Readable, idiomatic, no dead code |
 | Test coverage | 20 | New behaviour is covered by tests |
-| Error handling | 15 | Edge cases handled; failures are loud and clear |
+| Error handling | 15 | Failures are loud and clear |
 
 ## 8. Traps & Edge Cases
 
