@@ -44,3 +44,4 @@ A command-line tool that reads a CSV or JSON file of records and prints a per-gr
 - Column values with commas inside quotes (CSV quoting).
 - Non-numeric values in the `--on` column → skip the row and report the count of skipped rows.
 - Re-running produces identical output (no global mutable state).
+- `--by` and `--on` naming the same column → exit non-zero with a clear message.
