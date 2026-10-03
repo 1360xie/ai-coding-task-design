@@ -30,4 +30,4 @@ Use this to judge whether a coding task is ready to hand to an agent. Score each
 
 - [ ] A mechanical way to check the result exists (tests, fixture, script).
 - [ ] Fixtures or sample inputs are provided or referenced.
-- [ ] A rubric dimension is reserved for tests/verification.
+- [ ] At least one rubric dimension rewards tests or verification.
