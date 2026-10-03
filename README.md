@@ -52,4 +52,4 @@ Every push runs the same checks on Python 3.10-3.12 (see [`.github/workflows/ci.
 
 ## Background
 
-Author works across the stack — Python, frontend, and backend. These specs reflect how real coding tasks get decomposed: explicit interfaces, testable acceptance criteria, and rubrics a reviewer can apply mechanically.
+I work across the stack — Python, frontend, and backend. These specs reflect how real coding tasks get decomposed: explicit interfaces, testable acceptance criteria, and rubrics a reviewer can apply mechanically.
